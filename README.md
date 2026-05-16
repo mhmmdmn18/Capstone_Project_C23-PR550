@@ -77,12 +77,6 @@ MongoDB → API Service (Express.js) → Mobile App
 GitHub → Cloud Build → Artifact Registry → Cloud Run
 ```
 
-## 📂 Repository
-
-Project repository:
-
-:contentReference[oaicite:0]{index=0}
-
 ## 👨‍💻 Author
 
 **Muhammad Aminuddin**
