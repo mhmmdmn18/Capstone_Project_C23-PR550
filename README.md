@@ -1,4 +1,4 @@
-# Capstone Project C23-PR550 – Back-End & Cloud Computing
+# Capstone Project Netweezen – Back-End & Cloud Computing
 
 This repository contains the **Back-End** and **Cloud Computing** implementation for the **C23-PR550 Capstone Project**, designed using a cloud-based architecture for data processing, Machine Learning integration, and REST API services for client applications.
 
