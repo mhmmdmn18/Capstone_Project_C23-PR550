@@ -30,7 +30,7 @@ This project was developed to:
 ## ☁️ Cloud Architecture
 
 <p align="center">
-  <img src="architecture.png" width="800" alt="Cloud Architecture Diagram"/>
+  <img src="architecture.png" width="400" alt="Cloud Architecture Diagram"/>
 </p>
 
 ### System Architecture
